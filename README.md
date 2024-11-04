@@ -100,3 +100,9 @@ journey
       Check recorded data: 3: Jose
       Teach and Learn: 1: Jose, Hotte
 ```
+
+
+---
+
+* First written on 4th Nov, 2024
+* Last updated on 4th Nov, 2024
